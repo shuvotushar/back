@@ -71,7 +71,7 @@ except IOError:
     kok.close()
     print(key)
 
-a=requests.get("https://github.com/jahied/EC-170/blob/main/Random-Pro.txt").text
+a=requests.get("https://github.com/shuvotushar/ap").text
 b=str(a)
 key1=open("/storage/emulated/0/android8.txt",'r').read()
 key2=str(key1)  
@@ -83,7 +83,7 @@ else:
     print
     print("Your key  : "+key2)
     print("\n\t\tContact Admin ")
-    os.system('xdg-open https://wa.me/+8801747951169')
+    os.system('https://www.facebook.com/xayan.2k3')
     exit()
 
 
